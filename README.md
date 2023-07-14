@@ -1,5 +1,4 @@
-# DS18B20_Lib
-DS18B20_Lib
+
 
 
 Ustawienie pinu ds18b20 jako GPIO_Input
